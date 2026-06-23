@@ -1,6 +1,4 @@
-
-
-# 🚀 AI/ML Career Guidance System (Flask Backend + LLM + ML Model)
+ AI Based ML Career Guidance System 
 
 ## 📌 Overview
 
