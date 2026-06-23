@@ -1,0 +1,72 @@
+{
+  "Software Engineer": [
+    {"name": "Python for Everybody", "platform": "Coursera", "url": "https://www.coursera.org/specializations/python", "skill": "python"},
+    {"name": "Java Programming and Software Engineering Fundamentals", "platform": "Coursera", "url": "https://www.coursera.org/specializations/java-programming", "skill": "java"},
+    {"name": "Data Structures and Algorithms", "platform": "Udemy", "url": "https://www.udemy.com/course/datastructurescncpp/", "skill": "problem_solving"},
+    {"name": "The Complete Web Developer Bootcamp", "platform": "Udemy", "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/", "skill": "creativity"},
+    {"name": "Agile with Atlassian Jira", "platform": "Coursera", "url": "https://www.coursera.org/learn/agile-atlassian-jira", "skill": "teamwork"}
+  ],
+  "Data Scientist": [
+    {"name": "IBM Data Science Professional Certificate", "platform": "Coursera", "url": "https://www.coursera.org/professional-certificates/ibm-data-science", "skill": "python"},
+    {"name": "Statistics with Python Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/statistics-with-python", "skill": "math"},
+    {"name": "Machine Learning A-Z", "platform": "Udemy", "url": "https://www.udemy.com/course/machinelearning/", "skill": "analysis"},
+    {"name": "Research Methods", "platform": "edX", "url": "https://www.edx.org/learn/research", "skill": "research"},
+    {"name": "Data Communication and Visualization", "platform": "Coursera", "url": "https://www.coursera.org/learn/data-visualization", "skill": "communication"}
+  ],
+  "Doctor": [
+    {"name": "Introduction to Biology - The Secret of Life", "platform": "edX", "url": "https://www.edx.org/learn/biology/massachusetts-institute-of-technology-introduction-to-biology-the-secret-of-life", "skill": "research"},
+    {"name": "Medical Terminology", "platform": "Coursera", "url": "https://www.coursera.org/learn/medical-terminology", "skill": "communication"},
+    {"name": "Anatomy Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/anatomy", "skill": "analysis"},
+    {"name": "Leadership in Healthcare", "platform": "edX", "url": "https://www.edx.org/learn/healthcare/harvard-university-leadership-in-healthcare", "skill": "leadership"},
+    {"name": "Scientific Writing", "platform": "Coursera", "url": "https://www.coursera.org/learn/sciwrite", "skill": "writing"}
+  ],
+  "Lawyer": [
+    {"name": "Introduction to English Common Law", "platform": "Coursera", "url": "https://www.coursera.org/learn/intro-common-law", "skill": "writing"},
+    {"name": "Successful Negotiation: Essential Strategies and Skills", "platform": "Coursera", "url": "https://www.coursera.org/learn/negotiation-skills", "skill": "communication"},
+    {"name": "Legal Research and Writing", "platform": "edX", "url": "https://www.edx.org/learn/law", "skill": "research"},
+    {"name": "Critical Thinking and Problem Solving", "platform": "Coursera", "url": "https://www.coursera.org/learn/critical-thinking-skills-for-university-success", "skill": "analysis"},
+    {"name": "Leadership and Emotional Intelligence", "platform": "Coursera", "url": "https://www.coursera.org/learn/leadership-skills", "skill": "leadership"}
+  ],
+  "Teacher": [
+    {"name": "Foundations of Teaching for Learning", "platform": "Coursera", "url": "https://www.coursera.org/specializations/foundations-teaching", "skill": "communication"},
+    {"name": "Inspiring and Motivating Individuals", "platform": "Coursera", "url": "https://www.coursera.org/learn/motivate-people-teams", "skill": "leadership"},
+    {"name": "Academic English: Writing Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/academic-english", "skill": "writing"},
+    {"name": "Creativity, Design and Innovation", "platform": "Coursera", "url": "https://www.coursera.org/learn/creativity-design-innovation", "skill": "creativity"},
+    {"name": "Introduction to Research", "platform": "edX", "url": "https://www.edx.org/learn/research", "skill": "research"}
+  ],
+  "Business Analyst": [
+    {"name": "Business Analysis Fundamentals", "platform": "Udemy", "url": "https://www.udemy.com/course/business-analysis-ba/", "skill": "analysis"},
+    {"name": "Business Communication", "platform": "Coursera", "url": "https://www.coursera.org/learn/wharton-communication-skills", "skill": "communication"},
+    {"name": "Excel Skills for Business Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/excel", "skill": "math"},
+    {"name": "Project Management Principles and Practices", "platform": "Coursera", "url": "https://www.coursera.org/specializations/project-management", "skill": "leadership"},
+    {"name": "Problem Solving with Excel", "platform": "Coursera", "url": "https://www.coursera.org/learn/excel-data-analysis", "skill": "problem_solving"}
+  ],
+  "Graphic Designer": [
+    {"name": "Graphic Design Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/graphic-design", "skill": "design"},
+    {"name": "Adobe Photoshop CC – Essentials Training", "platform": "Udemy", "url": "https://www.udemy.com/course/adobe-photoshop-cc-essentials-training-course/", "skill": "creativity"},
+    {"name": "Design Thinking for Innovation", "platform": "Coursera", "url": "https://www.coursera.org/learn/uva-darden-design-thinking-innovation", "skill": "problem_solving"},
+    {"name": "Writing for the Web", "platform": "edX", "url": "https://www.edx.org/learn/writing", "skill": "writing"},
+    {"name": "Effective Communication: Writing, Design, and Presentation", "platform": "Coursera", "url": "https://www.coursera.org/specializations/effective-business-communication", "skill": "communication"}
+  ],
+  "Nurse": [
+    {"name": "Everyday Excel Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/everyday-excel", "skill": "analysis"},
+    {"name": "Patient Safety and Quality Improvement", "platform": "Coursera", "url": "https://www.coursera.org/learn/patient-safety", "skill": "teamwork"},
+    {"name": "Healthcare Communication", "platform": "edX", "url": "https://www.edx.org/learn/healthcare", "skill": "communication"},
+    {"name": "Introduction to Clinical Research", "platform": "Coursera", "url": "https://www.coursera.org/learn/clinical-research", "skill": "research"},
+    {"name": "Leadership in Nursing", "platform": "edX", "url": "https://www.edx.org/learn/nursing", "skill": "leadership"}
+  ],
+  "Accountant": [
+    {"name": "Introduction to Financial Accounting", "platform": "Coursera", "url": "https://www.coursera.org/learn/wharton-accounting", "skill": "math"},
+    {"name": "Business Analytics Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/business-analytics", "skill": "analysis"},
+    {"name": "Financial Analysis and Decision Making", "platform": "edX", "url": "https://www.edx.org/learn/finance", "skill": "problem_solving"},
+    {"name": "Accounting Analytics", "platform": "Coursera", "url": "https://www.coursera.org/learn/accounting-analytics", "skill": "research"},
+    {"name": "Business Writing", "platform": "Coursera", "url": "https://www.coursera.org/learn/business-writing", "skill": "writing"}
+  ],
+  "Mechanical Engineer": [
+    {"name": "Introduction to Engineering Mechanics", "platform": "Coursera", "url": "https://www.coursera.org/learn/engineering-mechanics-statics", "skill": "math"},
+    {"name": "A Hands-on Introduction to Engineering Simulations", "platform": "edX", "url": "https://www.edx.org/learn/engineering", "skill": "problem_solving"},
+    {"name": "Engineering Project Management", "platform": "Coursera", "url": "https://www.coursera.org/specializations/engineering-project-management", "skill": "teamwork"},
+    {"name": "Data Analysis and Visualization Foundations", "platform": "Coursera", "url": "https://www.coursera.org/specializations/ibm-data-analyst", "skill": "analysis"},
+    {"name": "Technical Report Writing", "platform": "edX", "url": "https://www.edx.org/learn/writing", "skill": "research"}
+  ]
+}

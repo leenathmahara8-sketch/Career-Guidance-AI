@@ -1,0 +1,551 @@
+math_score,science_score,english_score,cs_score,skills,interests,career_label
+83,68,66,98,"analysis,python,teamwork,problem_solving,java","science,engineering",Software Engineer
+83,60,60,86,"analysis,problem_solving,python,teamwork","technology,science,engineering",Software Engineer
+60,76,57,86,"python,java,analysis,teamwork","engineering,science,technology",Software Engineer
+83,78,57,87,"python,problem_solving,analysis","science,technology",Software Engineer
+74,62,69,99,"analysis,teamwork,python,java,problem_solving","technology,science,engineering",Software Engineer
+100,81,62,94,"analysis,problem_solving,java,python,teamwork","science,engineering",Software Engineer
+98,80,60,90,"java,teamwork,problem_solving","engineering,science",Software Engineer
+64,56,66,81,"teamwork,java,analysis,problem_solving,python","science,technology",Software Engineer
+72,68,74,80,"analysis,python,java","engineering,science",Software Engineer
+82,63,63,98,"java,teamwork,analysis,python,problem_solving","technology,science,engineering",Software Engineer
+68,80,69,88,"java,python,teamwork,problem_solving,analysis","science,engineering,technology",Software Engineer
+92,78,62,94,"teamwork,problem_solving,java,analysis","technology,science,engineering",Software Engineer
+90,71,56,92,"teamwork,java,problem_solving","engineering,science",Software Engineer
+73,64,46,100,"teamwork,python,analysis","science,engineering,technology",Software Engineer
+82,69,40,87,"teamwork,java,analysis","science,technology,engineering",Software Engineer
+83,67,54,85,"python,java,analysis,problem_solving","engineering,science",Software Engineer
+78,84,59,89,"teamwork,java,problem_solving,analysis,python","engineering,science,technology",Software Engineer
+93,78,60,85,"python,java,problem_solving,analysis,teamwork","science,engineering",Software Engineer
+84,68,56,81,"python,analysis,teamwork","engineering,technology,science",Software Engineer
+88,75,73,100,"analysis,problem_solving,java,teamwork","science,engineering",Software Engineer
+68,81,72,81,"python,problem_solving,java,analysis,teamwork","engineering,technology",Software Engineer
+82,62,78,91,"problem_solving,java,analysis","science,technology",Software Engineer
+76,58,68,94,"python,java,analysis","technology,science",Software Engineer
+82,70,69,87,"problem_solving,teamwork,analysis,python,java","technology,engineering,science",Software Engineer
+77,75,87,87,"problem_solving,analysis,java","science,engineering,technology",Software Engineer
+79,77,55,93,"analysis,java,problem_solving","science,engineering,technology",Software Engineer
+81,73,51,89,"python,analysis,teamwork,problem_solving,java","science,technology,engineering",Software Engineer
+83,87,53,76,"problem_solving,java,analysis,teamwork","engineering,technology,science",Software Engineer
+70,74,58,83,"java,python,analysis,problem_solving","technology,science,engineering",Software Engineer
+95,63,50,84,"python,problem_solving,teamwork,java","science,engineering,technology",Software Engineer
+64,74,54,93,"problem_solving,analysis,python","science,technology,engineering",Software Engineer
+73,74,46,74,"problem_solving,teamwork,analysis,python","engineering,technology,science",Software Engineer
+73,86,56,85,"java,problem_solving,analysis,teamwork","engineering,science",Software Engineer
+73,89,48,89,"teamwork,problem_solving,java,analysis","engineering,technology",Software Engineer
+85,75,55,73,"problem_solving,python,teamwork","technology,science,engineering",Software Engineer
+91,55,71,88,"python,java,problem_solving","technology,engineering",Software Engineer
+64,82,53,100,"java,teamwork,analysis,python,problem_solving","science,technology",Software Engineer
+82,63,57,84,"python,problem_solving,teamwork,analysis","engineering,science",Software Engineer
+82,63,68,90,"problem_solving,java,teamwork","engineering,science,technology",Software Engineer
+94,86,53,90,"java,problem_solving,python","engineering,technology",Software Engineer
+74,56,56,100,"java,python,teamwork","engineering,science,technology",Software Engineer
+76,79,61,89,"analysis,teamwork,python,problem_solving,java","science,engineering",Software Engineer
+89,77,66,92,"problem_solving,python,teamwork","technology,engineering,science",Software Engineer
+87,68,51,85,"teamwork,problem_solving,python","technology,engineering,science",Software Engineer
+76,72,65,94,"problem_solving,teamwork,java","engineering,science,technology",Software Engineer
+77,74,61,93,"java,python,analysis,problem_solving","science,technology,engineering",Software Engineer
+86,68,59,80,"python,problem_solving,analysis","engineering,science,technology",Software Engineer
+90,77,64,88,"problem_solving,java,analysis,python,teamwork","science,technology",Software Engineer
+80,79,64,88,"problem_solving,teamwork,java,analysis","engineering,science",Software Engineer
+72,85,63,89,"problem_solving,java,python,analysis","technology,science,engineering",Software Engineer
+88,51,40,90,"java,problem_solving,python","engineering,technology,science",Software Engineer
+79,76,67,89,"analysis,teamwork,python,problem_solving","science,engineering",Software Engineer
+82,59,63,87,"problem_solving,java,teamwork,analysis,python","engineering,technology",Software Engineer
+79,69,62,90,"teamwork,python,problem_solving,java,analysis","engineering,science",Software Engineer
+77,54,46,91,"python,analysis,problem_solving","technology,science",Software Engineer
+95,78,73,85,"problem_solving,math,analysis,python","science,research",Data Scientist
+89,88,52,90,"python,math,problem_solving,analysis","technology,research,science",Data Scientist
+78,78,65,98,"python,problem_solving,math","science,research",Data Scientist
+83,89,66,89,"math,research,python","research,technology",Data Scientist
+72,85,40,100,"research,problem_solving,python,analysis,math","science,technology,research",Data Scientist
+78,82,56,78,"research,math,python","technology,research",Data Scientist
+85,59,60,85,"problem_solving,research,math","science,technology,research",Data Scientist
+86,78,69,85,"python,problem_solving,math,research","research,technology,science",Data Scientist
+87,71,66,90,"math,python,research","technology,science",Data Scientist
+79,66,55,76,"math,analysis,research","science,technology,research",Data Scientist
+78,77,85,93,"problem_solving,python,analysis","technology,research",Data Scientist
+91,93,48,89,"math,python,research,analysis","research,technology,science",Data Scientist
+86,85,61,88,"problem_solving,research,python,analysis","technology,science",Data Scientist
+93,77,52,90,"problem_solving,analysis,python","research,technology,science",Data Scientist
+90,78,70,71,"math,python,problem_solving,research","technology,research",Data Scientist
+89,69,85,80,"research,math,analysis,problem_solving,python","technology,research,science",Data Scientist
+81,68,63,87,"problem_solving,analysis,research","research,technology,science",Data Scientist
+87,74,64,100,"math,research,python","technology,science,research",Data Scientist
+80,60,72,78,"analysis,math,research,problem_solving,python","technology,science",Data Scientist
+91,78,53,87,"python,analysis,research,problem_solving","science,technology,research",Data Scientist
+89,96,63,86,"analysis,math,research,problem_solving","science,technology",Data Scientist
+85,74,66,87,"python,analysis,research","science,technology",Data Scientist
+77,100,76,81,"research,python,analysis,problem_solving,math","research,science",Data Scientist
+72,89,68,84,"python,math,analysis,research","science,research",Data Scientist
+89,90,74,90,"math,research,problem_solving,python,analysis","technology,research",Data Scientist
+82,74,57,81,"research,analysis,math,problem_solving,python","technology,science",Data Scientist
+73,89,54,90,"research,math,python","research,science",Data Scientist
+83,83,74,78,"analysis,python,research","science,research,technology",Data Scientist
+92,72,52,79,"analysis,research,math,python","science,research,technology",Data Scientist
+92,79,48,86,"math,analysis,problem_solving,research,python","science,technology",Data Scientist
+81,87,84,80,"problem_solving,research,python","technology,science",Data Scientist
+66,86,74,68,"analysis,math,problem_solving,python,research","technology,science",Data Scientist
+88,75,76,86,"math,python,analysis,problem_solving,research","science,research",Data Scientist
+80,72,62,83,"research,analysis,problem_solving,python,math","technology,science,research",Data Scientist
+85,78,45,77,"problem_solving,research,python,math","technology,science",Data Scientist
+87,67,71,83,"python,analysis,math,research,problem_solving","research,technology",Data Scientist
+74,82,49,99,"math,research,problem_solving,analysis","technology,research",Data Scientist
+82,80,64,85,"research,problem_solving,math,analysis,python","research,science,technology",Data Scientist
+79,90,68,75,"math,python,problem_solving,analysis","research,technology",Data Scientist
+91,82,75,86,"problem_solving,math,research","technology,research,science",Data Scientist
+86,85,78,93,"math,problem_solving,research,python,analysis","technology,research",Data Scientist
+72,70,63,83,"python,analysis,research","science,research,technology",Data Scientist
+89,63,82,82,"math,analysis,python,research","technology,science,research",Data Scientist
+86,75,65,76,"math,analysis,research,python","science,research",Data Scientist
+90,90,54,84,"python,analysis,math,research","technology,research,science",Data Scientist
+79,76,61,89,"python,problem_solving,math,analysis,research","science,research",Data Scientist
+94,86,57,90,"python,analysis,problem_solving","research,science",Data Scientist
+90,79,66,83,"research,analysis,python,problem_solving","technology,research",Data Scientist
+81,85,47,89,"problem_solving,research,python","research,technology,science",Data Scientist
+95,62,63,96,"math,research,analysis,problem_solving","research,science,technology",Data Scientist
+83,85,64,84,"research,math,analysis,python,problem_solving","science,technology,research",Data Scientist
+81,89,84,82,"math,problem_solving,research,analysis,python","technology,science",Data Scientist
+78,84,58,78,"python,math,problem_solving,research","research,science",Data Scientist
+71,68,51,90,"analysis,math,research,python","research,technology,science",Data Scientist
+100,72,73,97,"research,python,problem_solving","science,research,technology",Data Scientist
+86,97,65,37,"teamwork,analysis,leadership,problem_solving","healthcare,social_work",Doctor
+75,94,59,62,"leadership,teamwork,analysis","science,healthcare,social_work",Doctor
+70,88,58,54,"problem_solving,leadership,research,analysis","science,social_work,healthcare",Doctor
+74,96,62,56,"leadership,analysis,research,teamwork","science,social_work",Doctor
+89,92,83,64,"leadership,analysis,teamwork,research,problem_solving","healthcare,science,social_work",Doctor
+89,94,69,63,"leadership,analysis,teamwork,research,problem_solving","science,healthcare,social_work",Doctor
+76,94,61,44,"research,leadership,problem_solving,teamwork","social_work,science",Doctor
+83,92,51,63,"problem_solving,research,analysis","healthcare,science,social_work",Doctor
+91,90,53,50,"research,leadership,teamwork","social_work,science",Doctor
+83,88,76,36,"research,leadership,teamwork,problem_solving,analysis","social_work,science",Doctor
+77,93,80,54,"research,leadership,teamwork,problem_solving","science,social_work",Doctor
+72,91,71,66,"problem_solving,research,leadership,analysis","social_work,science",Doctor
+80,86,63,62,"problem_solving,research,leadership,analysis,teamwork","science,healthcare",Doctor
+89,90,57,46,"leadership,problem_solving,analysis","healthcare,science,social_work",Doctor
+78,89,81,25,"problem_solving,analysis,teamwork,research,leadership","social_work,healthcare,science",Doctor
+80,85,50,62,"problem_solving,analysis,leadership","science,social_work,healthcare",Doctor
+70,100,84,50,"analysis,problem_solving,teamwork,research","social_work,healthcare,science",Doctor
+81,89,62,50,"leadership,analysis,research","healthcare,social_work,science",Doctor
+82,88,60,67,"research,teamwork,leadership,problem_solving,analysis","healthcare,social_work,science",Doctor
+84,92,82,71,"problem_solving,leadership,teamwork,analysis,research","social_work,healthcare,science",Doctor
+82,96,63,70,"problem_solving,leadership,analysis,teamwork,research","healthcare,social_work",Doctor
+95,97,88,49,"analysis,leadership,problem_solving,research,teamwork","healthcare,science",Doctor
+100,91,55,64,"teamwork,research,analysis","science,social_work",Doctor
+71,90,61,59,"leadership,problem_solving,teamwork","healthcare,social_work,science",Doctor
+100,93,90,59,"leadership,research,teamwork,analysis","social_work,healthcare,science",Doctor
+87,84,79,71,"problem_solving,teamwork,analysis,leadership,research","social_work,healthcare,science",Doctor
+70,99,38,59,"teamwork,leadership,analysis,research","science,social_work,healthcare",Doctor
+94,100,58,58,"problem_solving,analysis,teamwork","science,healthcare,social_work",Doctor
+82,91,48,73,"research,teamwork,problem_solving,analysis,leadership","social_work,healthcare,science",Doctor
+89,89,49,49,"leadership,analysis,problem_solving,research,teamwork","science,social_work,healthcare",Doctor
+88,98,77,53,"problem_solving,analysis,research,leadership,teamwork","healthcare,social_work,science",Doctor
+79,89,66,49,"analysis,teamwork,leadership,research,problem_solving","science,social_work",Doctor
+89,93,74,20,"research,problem_solving,leadership,analysis","social_work,science,healthcare",Doctor
+74,95,67,47,"teamwork,research,analysis,leadership","science,social_work,healthcare",Doctor
+81,92,66,57,"problem_solving,analysis,research","science,social_work,healthcare",Doctor
+87,86,81,41,"research,leadership,problem_solving,analysis","science,healthcare,social_work",Doctor
+79,93,58,51,"research,leadership,teamwork,analysis","healthcare,science,social_work",Doctor
+88,90,50,44,"analysis,teamwork,leadership,problem_solving,research","social_work,healthcare,science",Doctor
+65,97,87,68,"research,problem_solving,analysis","healthcare,science",Doctor
+90,99,42,46,"teamwork,leadership,research,problem_solving","social_work,science,healthcare",Doctor
+82,86,63,35,"problem_solving,research,leadership,teamwork,analysis","science,social_work",Doctor
+89,91,53,73,"research,teamwork,leadership","social_work,science,healthcare",Doctor
+75,87,74,47,"research,leadership,problem_solving,teamwork,analysis","science,social_work,healthcare",Doctor
+74,90,70,43,"analysis,research,teamwork,leadership","social_work,science,healthcare",Doctor
+75,91,60,68,"problem_solving,research,teamwork","healthcare,social_work",Doctor
+100,94,70,68,"teamwork,leadership,analysis,problem_solving","social_work,science,healthcare",Doctor
+75,86,71,60,"leadership,teamwork,problem_solving,research,analysis","social_work,healthcare,science",Doctor
+72,90,70,50,"teamwork,leadership,analysis","science,healthcare",Doctor
+89,100,59,38,"leadership,teamwork,problem_solving","science,healthcare,social_work",Doctor
+75,100,81,48,"teamwork,research,analysis","healthcare,social_work,science",Doctor
+69,94,53,46,"leadership,analysis,problem_solving","social_work,science,healthcare",Doctor
+83,84,68,65,"leadership,problem_solving,analysis,research","healthcare,social_work,science",Doctor
+95,94,57,54,"analysis,leadership,problem_solving,research","science,healthcare",Doctor
+79,86,77,51,"research,analysis,leadership","science,social_work,healthcare",Doctor
+73,90,77,56,"research,leadership,problem_solving","healthcare,science,social_work",Doctor
+66,58,95,66,"leadership,communication,research,writing","education,law",Lawyer
+46,65,86,29,"analysis,writing,leadership,communication","education,social_work,law",Lawyer
+65,59,96,51,"writing,communication,leadership,analysis","social_work,education,law",Lawyer
+53,56,86,70,"research,analysis,leadership,writing","education,law",Lawyer
+64,68,98,61,"communication,writing,leadership","social_work,education,law",Lawyer
+58,58,92,61,"research,leadership,writing","law,education",Lawyer
+70,47,87,60,"writing,analysis,communication,research,leadership","law,education",Lawyer
+59,55,90,46,"leadership,communication,research,writing,analysis","social_work,education",Lawyer
+59,54,96,60,"writing,communication,research,analysis","social_work,education,law",Lawyer
+53,41,94,64,"writing,analysis,research,communication","social_work,law,education",Lawyer
+59,63,84,57,"analysis,research,writing","education,law",Lawyer
+64,65,92,43,"communication,writing,research,analysis,leadership","law,education,social_work",Lawyer
+61,65,97,61,"leadership,research,communication","education,law",Lawyer
+69,61,93,52,"writing,communication,leadership","law,social_work,education",Lawyer
+78,75,92,45,"communication,research,writing,analysis,leadership","education,social_work",Lawyer
+67,55,87,70,"communication,writing,leadership,research","law,social_work",Lawyer
+54,42,98,57,"leadership,communication,research,writing","social_work,education,law",Lawyer
+52,54,93,43,"research,communication,analysis,leadership","education,law",Lawyer
+79,77,95,62,"analysis,writing,leadership,communication","education,law,social_work",Lawyer
+62,52,81,66,"research,leadership,writing,communication","law,social_work,education",Lawyer
+52,71,90,61,"research,leadership,analysis,writing,communication","law,education",Lawyer
+68,75,97,45,"research,communication,leadership","social_work,education,law",Lawyer
+73,65,92,37,"communication,leadership,analysis","social_work,law,education",Lawyer
+66,51,91,67,"research,leadership,writing,analysis","social_work,law",Lawyer
+56,53,93,64,"research,analysis,leadership","law,social_work",Lawyer
+76,53,91,55,"research,analysis,writing,leadership","education,social_work,law",Lawyer
+72,71,95,60,"analysis,leadership,communication,writing","education,social_work",Lawyer
+70,63,83,72,"writing,research,analysis","social_work,education,law",Lawyer
+66,51,100,51,"writing,analysis,leadership","law,education,social_work",Lawyer
+61,60,97,37,"writing,research,communication,analysis,leadership","social_work,education,law",Lawyer
+65,73,87,51,"leadership,analysis,research","law,social_work",Lawyer
+66,65,100,42,"analysis,writing,communication,leadership,research","social_work,law,education",Lawyer
+83,75,89,41,"communication,analysis,leadership,writing","law,education,social_work",Lawyer
+66,42,93,53,"leadership,writing,analysis,communication","education,social_work",Lawyer
+70,54,86,20,"research,writing,leadership,analysis","education,law",Lawyer
+81,55,88,60,"research,communication,writing","law,education",Lawyer
+63,57,87,45,"research,writing,leadership,analysis","social_work,education,law",Lawyer
+57,55,97,79,"leadership,research,writing","education,law",Lawyer
+72,51,86,56,"writing,research,analysis,communication,leadership","education,law,social_work",Lawyer
+69,59,94,46,"communication,leadership,analysis","social_work,education",Lawyer
+57,51,93,68,"analysis,research,communication","social_work,law,education",Lawyer
+67,74,85,61,"analysis,research,leadership,communication","law,education,social_work",Lawyer
+62,58,91,68,"writing,communication,research,leadership,analysis","law,social_work,education",Lawyer
+43,59,92,67,"writing,leadership,research,communication","social_work,education,law",Lawyer
+62,44,96,54,"writing,leadership,research","social_work,law",Lawyer
+56,57,85,51,"research,communication,writing,leadership","education,social_work",Lawyer
+60,72,92,65,"writing,research,communication,leadership","law,social_work,education",Lawyer
+61,55,87,60,"leadership,communication,writing,analysis","education,law",Lawyer
+64,64,86,60,"leadership,writing,analysis,research","social_work,law,education",Lawyer
+76,85,94,58,"analysis,communication,writing,research","education,social_work",Lawyer
+67,67,86,44,"writing,leadership,communication,analysis","education,social_work,law",Lawyer
+59,55,88,30,"analysis,communication,leadership,writing","education,law,social_work",Lawyer
+63,72,92,56,"writing,analysis,research","social_work,law,education",Lawyer
+69,49,90,47,"analysis,leadership,communication,research","social_work,education",Lawyer
+59,74,93,57,"communication,analysis,leadership","social_work,law,education",Lawyer
+64,53,72,51,"teamwork,communication,leadership","education,social_work,arts",Teacher
+67,61,84,49,"teamwork,communication,leadership,creativity","social_work,arts",Teacher
+78,85,85,84,"writing,communication,creativity,leadership,teamwork","arts,social_work",Teacher
+68,59,87,51,"teamwork,leadership,creativity","arts,social_work,education",Teacher
+64,72,85,85,"creativity,writing,leadership,teamwork","education,social_work",Teacher
+71,78,73,67,"leadership,creativity,communication","social_work,arts",Teacher
+56,63,75,52,"communication,teamwork,leadership,writing","social_work,arts",Teacher
+68,48,80,47,"communication,creativity,teamwork","social_work,education,arts",Teacher
+77,62,87,60,"creativity,writing,communication,leadership,teamwork","social_work,arts",Teacher
+62,87,72,26,"writing,teamwork,leadership","arts,social_work,education",Teacher
+70,67,79,36,"creativity,writing,leadership","education,arts",Teacher
+76,59,87,51,"leadership,communication,teamwork","social_work,education",Teacher
+65,66,87,56,"creativity,leadership,writing","social_work,arts,education",Teacher
+76,53,89,46,"leadership,writing,communication,teamwork","education,social_work,arts",Teacher
+84,73,80,47,"creativity,writing,communication,leadership,teamwork","social_work,arts",Teacher
+51,56,78,76,"writing,creativity,teamwork","arts,social_work",Teacher
+56,65,85,45,"writing,teamwork,creativity","education,arts,social_work",Teacher
+73,74,64,76,"teamwork,communication,leadership,writing,creativity","arts,education",Teacher
+66,50,89,53,"leadership,teamwork,communication,writing,creativity","education,arts,social_work",Teacher
+81,62,84,61,"creativity,leadership,teamwork,writing,communication","arts,education",Teacher
+83,72,75,75,"leadership,writing,creativity","social_work,education",Teacher
+44,68,85,73,"communication,writing,leadership","arts,education,social_work",Teacher
+68,69,69,40,"leadership,teamwork,creativity,communication","arts,education,social_work",Teacher
+63,75,78,30,"creativity,writing,communication,leadership","social_work,arts",Teacher
+66,69,71,44,"leadership,writing,teamwork","arts,social_work,education",Teacher
+74,60,89,52,"teamwork,creativity,communication","education,social_work,arts",Teacher
+74,59,73,59,"leadership,teamwork,communication,writing,creativity","education,social_work,arts",Teacher
+70,73,95,71,"leadership,writing,communication","arts,education",Teacher
+70,54,70,71,"writing,creativity,communication,leadership,teamwork","education,social_work",Teacher
+69,61,78,57,"creativity,leadership,teamwork,writing","arts,education,social_work",Teacher
+67,45,100,69,"leadership,teamwork,communication,creativity,writing","social_work,arts,education",Teacher
+66,74,96,43,"leadership,creativity,communication,writing,teamwork","social_work,education,arts",Teacher
+54,74,76,45,"leadership,creativity,teamwork,communication,writing","social_work,arts,education",Teacher
+76,72,82,70,"writing,communication,leadership,teamwork","education,social_work,arts",Teacher
+82,66,90,40,"writing,leadership,teamwork,communication,creativity","social_work,arts,education",Teacher
+71,71,80,47,"communication,creativity,writing,leadership","education,social_work",Teacher
+69,63,82,65,"creativity,teamwork,leadership,writing","education,arts,social_work",Teacher
+72,57,74,65,"communication,leadership,creativity,teamwork","arts,education,social_work",Teacher
+65,71,71,56,"leadership,writing,teamwork","social_work,education",Teacher
+60,70,86,62,"communication,writing,creativity,teamwork","education,arts,social_work",Teacher
+52,62,74,45,"leadership,creativity,writing,communication","education,arts,social_work",Teacher
+49,64,84,46,"leadership,writing,creativity,teamwork,communication","social_work,education",Teacher
+61,65,88,45,"writing,creativity,communication,teamwork,leadership","arts,social_work",Teacher
+61,61,72,48,"writing,communication,creativity,teamwork,leadership","social_work,arts",Teacher
+65,72,81,81,"creativity,leadership,communication","arts,education",Teacher
+73,56,83,58,"leadership,creativity,writing,teamwork,communication","social_work,arts,education",Teacher
+90,60,65,57,"communication,teamwork,leadership","education,social_work,arts",Teacher
+70,51,93,50,"creativity,teamwork,writing","arts,education,social_work",Teacher
+74,72,81,52,"communication,creativity,writing,leadership,teamwork","arts,social_work,education",Teacher
+58,71,79,65,"writing,leadership,teamwork,communication,creativity","arts,education,social_work",Teacher
+75,59,80,46,"teamwork,communication,leadership","education,arts,social_work",Teacher
+67,62,82,64,"creativity,leadership,writing,teamwork","social_work,education,arts",Teacher
+72,65,86,65,"communication,teamwork,writing,leadership","social_work,arts,education",Teacher
+69,80,73,40,"leadership,writing,communication,teamwork,creativity","social_work,education,arts",Teacher
+74,71,66,46,"writing,leadership,teamwork,communication,creativity","social_work,arts,education",Teacher
+73,60,79,70,"leadership,analysis,communication,problem_solving,math","technology,business",Business Analyst
+77,56,84,72,"math,problem_solving,analysis","finance,technology",Business Analyst
+80,65,81,59,"math,problem_solving,communication","finance,technology,business",Business Analyst
+73,61,81,71,"math,analysis,communication","technology,business,finance",Business Analyst
+65,77,83,71,"analysis,leadership,problem_solving,math","business,finance",Business Analyst
+81,66,85,69,"communication,math,leadership","finance,business,technology",Business Analyst
+72,68,74,53,"analysis,leadership,problem_solving,math,communication","finance,business,technology",Business Analyst
+72,70,77,57,"communication,math,problem_solving,leadership,analysis","business,technology",Business Analyst
+74,75,81,75,"problem_solving,math,communication,analysis","technology,business,finance",Business Analyst
+67,67,74,69,"leadership,communication,math,analysis,problem_solving","technology,finance,business",Business Analyst
+78,63,72,83,"communication,problem_solving,analysis","business,technology",Business Analyst
+83,45,87,67,"leadership,problem_solving,analysis","business,finance,technology",Business Analyst
+76,71,81,61,"leadership,communication,analysis","finance,business",Business Analyst
+86,66,70,56,"math,leadership,analysis,problem_solving,communication","business,finance,technology",Business Analyst
+73,74,72,62,"math,leadership,analysis,communication,problem_solving","technology,business,finance",Business Analyst
+71,75,72,82,"math,leadership,problem_solving,analysis,communication","finance,business",Business Analyst
+78,39,72,59,"analysis,communication,math","technology,business",Business Analyst
+82,73,75,81,"communication,problem_solving,leadership,analysis","technology,finance,business",Business Analyst
+59,60,80,85,"analysis,communication,problem_solving","business,finance,technology",Business Analyst
+75,79,83,54,"communication,problem_solving,math,leadership,analysis","finance,technology,business",Business Analyst
+64,70,77,74,"problem_solving,math,analysis,communication","technology,business",Business Analyst
+68,74,75,65,"communication,problem_solving,math","finance,business,technology",Business Analyst
+71,71,69,66,"math,communication,problem_solving,leadership","business,technology",Business Analyst
+81,68,79,61,"problem_solving,math,analysis","finance,business",Business Analyst
+88,65,76,72,"communication,analysis,problem_solving,math","technology,finance,business",Business Analyst
+81,79,85,64,"analysis,communication,leadership","finance,business,technology",Business Analyst
+59,71,74,65,"communication,problem_solving,analysis,leadership","technology,finance,business",Business Analyst
+82,56,72,68,"math,leadership,problem_solving,communication,analysis","business,finance",Business Analyst
+68,63,82,68,"math,analysis,leadership","technology,business",Business Analyst
+85,60,75,64,"leadership,math,problem_solving,analysis","technology,business,finance",Business Analyst
+75,65,67,72,"problem_solving,communication,math","finance,business",Business Analyst
+71,50,70,59,"math,analysis,problem_solving,leadership","finance,technology",Business Analyst
+71,66,79,61,"leadership,problem_solving,analysis,math,communication","business,finance,technology",Business Analyst
+79,53,84,85,"analysis,communication,math","technology,finance,business",Business Analyst
+76,68,81,56,"communication,leadership,problem_solving,math","finance,business",Business Analyst
+78,65,83,61,"analysis,leadership,math,problem_solving","technology,finance,business",Business Analyst
+71,63,79,66,"communication,math,leadership,problem_solving,analysis","finance,technology,business",Business Analyst
+87,78,67,76,"communication,problem_solving,leadership","business,finance,technology",Business Analyst
+64,58,70,61,"analysis,problem_solving,leadership,communication,math","finance,technology,business",Business Analyst
+56,77,84,66,"communication,analysis,math,problem_solving,leadership","technology,business",Business Analyst
+84,71,79,87,"math,leadership,problem_solving,analysis,communication","finance,business,technology",Business Analyst
+79,61,85,67,"analysis,leadership,math,communication,problem_solving","business,technology,finance",Business Analyst
+75,60,78,42,"leadership,math,problem_solving,analysis,communication","finance,business,technology",Business Analyst
+67,64,72,60,"leadership,math,problem_solving,analysis,communication","technology,finance,business",Business Analyst
+85,65,84,75,"communication,math,analysis,problem_solving,leadership","business,finance,technology",Business Analyst
+57,68,75,71,"analysis,problem_solving,communication","technology,finance",Business Analyst
+59,79,70,62,"leadership,communication,problem_solving","finance,technology",Business Analyst
+74,43,80,72,"problem_solving,math,analysis,communication,leadership","finance,technology,business",Business Analyst
+51,54,71,84,"problem_solving,communication,leadership,analysis,math","technology,business",Business Analyst
+73,82,75,74,"math,analysis,communication,leadership","business,finance,technology",Business Analyst
+67,58,71,57,"communication,analysis,leadership,math","finance,business",Business Analyst
+84,41,86,80,"leadership,analysis,problem_solving","technology,business",Business Analyst
+76,87,80,60,"problem_solving,analysis,communication","finance,technology",Business Analyst
+78,76,82,83,"communication,problem_solving,math,leadership,analysis","finance,technology",Business Analyst
+78,55,80,75,"leadership,communication,problem_solving","finance,technology,business",Business Analyst
+50,43,80,100,"writing,communication,problem_solving,design,creativity","technology,arts",Graphic Designer
+76,39,56,63,"creativity,communication,design,writing,problem_solving","arts,creativity",Graphic Designer
+58,52,69,58,"design,problem_solving,creativity,writing,communication","arts,technology",Graphic Designer
+61,49,81,60,"writing,creativity,communication","creativity,technology,arts",Graphic Designer
+46,52,74,82,"design,problem_solving,communication","technology,creativity,arts",Graphic Designer
+67,70,62,71,"communication,writing,design","technology,arts",Graphic Designer
+75,64,71,76,"communication,design,writing,problem_solving","arts,technology",Graphic Designer
+71,30,73,50,"writing,design,communication,creativity","creativity,technology,arts",Graphic Designer
+44,70,75,77,"writing,creativity,problem_solving","creativity,arts",Graphic Designer
+40,41,75,53,"design,creativity,writing","technology,arts,creativity",Graphic Designer
+61,59,63,71,"communication,creativity,design,problem_solving","technology,creativity,arts",Graphic Designer
+51,57,64,65,"communication,writing,creativity,problem_solving","technology,arts,creativity",Graphic Designer
+77,43,72,60,"design,communication,creativity","technology,arts",Graphic Designer
+64,59,59,62,"problem_solving,creativity,writing,design,communication","creativity,arts",Graphic Designer
+52,45,72,70,"problem_solving,design,writing,creativity,communication","technology,creativity,arts",Graphic Designer
+35,34,71,57,"writing,design,problem_solving,creativity,communication","creativity,technology",Graphic Designer
+67,54,55,48,"creativity,problem_solving,writing","arts,creativity,technology",Graphic Designer
+53,65,70,73,"problem_solving,design,communication,creativity,writing","arts,creativity,technology",Graphic Designer
+78,52,80,81,"problem_solving,creativity,writing,design","arts,technology",Graphic Designer
+50,73,79,70,"design,communication,writing,problem_solving","technology,arts",Graphic Designer
+65,57,60,100,"communication,problem_solving,creativity,design","arts,creativity",Graphic Designer
+56,61,52,78,"communication,creativity,design,writing","creativity,arts,technology",Graphic Designer
+66,55,73,74,"design,creativity,problem_solving,communication,writing","technology,arts,creativity",Graphic Designer
+57,54,67,61,"writing,problem_solving,communication","creativity,technology",Graphic Designer
+50,41,49,49,"problem_solving,communication,design","arts,technology,creativity",Graphic Designer
+52,33,65,61,"creativity,design,communication,problem_solving,writing","creativity,technology,arts",Graphic Designer
+50,46,57,72,"creativity,communication,writing,design","creativity,technology,arts",Graphic Designer
+50,55,78,60,"writing,design,problem_solving,communication,creativity","arts,creativity,technology",Graphic Designer
+54,37,62,77,"communication,design,creativity,writing,problem_solving","technology,creativity",Graphic Designer
+54,54,60,76,"problem_solving,communication,writing,creativity","creativity,arts,technology",Graphic Designer
+57,39,70,60,"problem_solving,writing,creativity","technology,arts,creativity",Graphic Designer
+51,64,64,41,"creativity,communication,problem_solving","creativity,arts",Graphic Designer
+56,72,67,77,"problem_solving,creativity,communication,writing,design","arts,creativity",Graphic Designer
+47,41,63,58,"design,problem_solving,communication,creativity","creativity,technology,arts",Graphic Designer
+69,45,62,62,"creativity,problem_solving,design","arts,creativity",Graphic Designer
+41,60,74,61,"creativity,communication,writing,design,problem_solving","creativity,arts,technology",Graphic Designer
+71,60,68,50,"problem_solving,communication,creativity,design,writing","technology,arts,creativity",Graphic Designer
+56,58,77,76,"communication,design,problem_solving,writing,creativity","creativity,arts",Graphic Designer
+52,59,67,87,"communication,problem_solving,design,creativity,writing","creativity,technology",Graphic Designer
+63,38,85,62,"writing,communication,design","creativity,technology,arts",Graphic Designer
+45,60,65,40,"problem_solving,creativity,communication","technology,creativity,arts",Graphic Designer
+49,67,64,69,"communication,writing,creativity","creativity,technology",Graphic Designer
+52,60,70,80,"creativity,writing,problem_solving","technology,creativity,arts",Graphic Designer
+56,55,68,67,"design,writing,creativity","creativity,arts,technology",Graphic Designer
+56,82,76,62,"design,communication,creativity,problem_solving","creativity,technology",Graphic Designer
+41,36,68,55,"problem_solving,communication,design","arts,creativity,technology",Graphic Designer
+49,46,77,53,"problem_solving,creativity,communication,design,writing","arts,creativity",Graphic Designer
+79,47,78,74,"creativity,problem_solving,design,writing","arts,technology,creativity",Graphic Designer
+52,69,66,71,"design,writing,problem_solving,communication,creativity","arts,technology,creativity",Graphic Designer
+68,38,61,57,"problem_solving,writing,design,creativity","creativity,technology,arts",Graphic Designer
+59,45,51,68,"design,communication,problem_solving,writing,creativity","creativity,arts",Graphic Designer
+65,53,82,54,"problem_solving,writing,communication,design,creativity","arts,technology,creativity",Graphic Designer
+52,62,74,71,"writing,communication,problem_solving","technology,arts",Graphic Designer
+37,57,71,68,"design,creativity,writing,problem_solving,communication","arts,technology",Graphic Designer
+59,50,50,54,"creativity,communication,writing,design,problem_solving","technology,creativity,arts",Graphic Designer
+54,83,77,53,"research,leadership,problem_solving,communication,teamwork","science,healthcare",Nurse
+65,76,74,46,"teamwork,problem_solving,research,communication","healthcare,social_work,science",Nurse
+69,85,64,23,"leadership,teamwork,communication","science,healthcare,social_work",Nurse
+83,70,70,54,"teamwork,leadership,communication,problem_solving","social_work,science,healthcare",Nurse
+61,83,63,47,"communication,teamwork,problem_solving,leadership,research","healthcare,social_work",Nurse
+43,91,75,55,"communication,problem_solving,research","social_work,science,healthcare",Nurse
+54,67,82,65,"teamwork,communication,research,leadership,problem_solving","healthcare,science,social_work",Nurse
+53,79,73,62,"communication,problem_solving,teamwork,leadership","healthcare,science",Nurse
+64,76,58,38,"teamwork,research,problem_solving,leadership,communication","social_work,science",Nurse
+53,65,74,59,"problem_solving,research,leadership,teamwork","social_work,science,healthcare",Nurse
+36,82,74,30,"teamwork,research,problem_solving","social_work,healthcare,science",Nurse
+80,76,83,35,"leadership,problem_solving,teamwork,communication","social_work,healthcare,science",Nurse
+79,80,50,33,"problem_solving,communication,research,leadership,teamwork","social_work,science",Nurse
+63,60,73,37,"leadership,research,problem_solving,communication,teamwork","healthcare,science",Nurse
+75,77,66,47,"leadership,communication,problem_solving,teamwork,research","social_work,healthcare",Nurse
+55,74,70,49,"teamwork,problem_solving,communication,research,leadership","science,social_work,healthcare",Nurse
+54,75,63,66,"problem_solving,teamwork,research,leadership,communication","social_work,healthcare",Nurse
+59,85,59,50,"communication,problem_solving,leadership","science,social_work",Nurse
+45,77,78,40,"communication,research,teamwork","social_work,healthcare",Nurse
+71,63,74,35,"problem_solving,communication,teamwork","science,healthcare",Nurse
+53,67,68,51,"teamwork,communication,problem_solving,research","healthcare,social_work",Nurse
+52,73,79,54,"research,communication,leadership,problem_solving,teamwork","healthcare,science,social_work",Nurse
+66,79,64,50,"research,leadership,teamwork","science,healthcare",Nurse
+71,90,81,52,"research,teamwork,communication,problem_solving,leadership","healthcare,science,social_work",Nurse
+80,90,92,50,"teamwork,communication,problem_solving,research,leadership","social_work,healthcare",Nurse
+67,75,56,51,"communication,problem_solving,leadership","science,social_work,healthcare",Nurse
+69,92,65,50,"leadership,teamwork,problem_solving,research,communication","healthcare,social_work",Nurse
+71,81,82,34,"problem_solving,leadership,teamwork,research","science,social_work,healthcare",Nurse
+68,76,75,35,"research,leadership,teamwork","science,social_work,healthcare",Nurse
+64,91,78,63,"problem_solving,teamwork,leadership,communication","science,healthcare,social_work",Nurse
+68,92,78,24,"teamwork,research,leadership","healthcare,science,social_work",Nurse
+66,80,57,60,"teamwork,research,communication","healthcare,social_work",Nurse
+62,83,69,56,"communication,research,teamwork,leadership,problem_solving","science,healthcare",Nurse
+56,78,74,57,"teamwork,communication,leadership","healthcare,social_work,science",Nurse
+55,92,82,51,"communication,leadership,teamwork,research,problem_solving","science,healthcare",Nurse
+43,89,57,68,"leadership,communication,research","social_work,healthcare",Nurse
+64,84,71,61,"leadership,problem_solving,research,teamwork,communication","science,healthcare",Nurse
+67,90,63,67,"problem_solving,communication,teamwork,research,leadership","healthcare,social_work",Nurse
+66,80,82,58,"research,problem_solving,communication,teamwork,leadership","healthcare,science",Nurse
+64,74,82,77,"communication,teamwork,leadership,problem_solving,research","science,healthcare",Nurse
+76,85,71,42,"research,leadership,teamwork,communication","social_work,science,healthcare",Nurse
+68,92,64,66,"research,communication,teamwork,problem_solving,leadership","healthcare,science,social_work",Nurse
+69,80,87,52,"research,communication,problem_solving","science,social_work,healthcare",Nurse
+55,95,69,69,"leadership,research,teamwork,communication,problem_solving","healthcare,social_work",Nurse
+69,82,66,48,"leadership,research,communication,problem_solving,teamwork","healthcare,science",Nurse
+53,68,55,33,"teamwork,research,communication,problem_solving,leadership","healthcare,science,social_work",Nurse
+69,83,71,35,"research,teamwork,problem_solving,communication,leadership","social_work,science,healthcare",Nurse
+69,74,72,44,"leadership,research,teamwork,problem_solving","science,healthcare,social_work",Nurse
+56,73,89,54,"research,problem_solving,leadership,communication","social_work,healthcare",Nurse
+84,70,76,67,"teamwork,leadership,problem_solving,communication","science,healthcare,social_work",Nurse
+70,73,63,30,"leadership,problem_solving,communication,teamwork","science,social_work,healthcare",Nurse
+62,98,65,45,"leadership,teamwork,research,problem_solving,communication","healthcare,science,social_work",Nurse
+73,83,60,43,"teamwork,communication,leadership","healthcare,social_work",Nurse
+65,68,71,58,"communication,problem_solving,research,leadership,teamwork","healthcare,social_work,science",Nurse
+62,72,71,45,"problem_solving,research,teamwork,communication","science,healthcare",Nurse
+71,66,62,64,"analysis,math,research","business,math,finance",Accountant
+70,79,64,68,"analysis,math,teamwork,problem_solving","math,business",Accountant
+93,83,69,74,"analysis,research,problem_solving","finance,math",Accountant
+83,51,63,63,"research,problem_solving,analysis,teamwork,math","math,business",Accountant
+82,54,60,46,"research,analysis,math,problem_solving,teamwork","business,math,finance",Accountant
+76,66,56,83,"problem_solving,analysis,teamwork,research,math","math,business,finance",Accountant
+85,65,67,49,"teamwork,problem_solving,analysis","finance,math",Accountant
+75,67,79,54,"teamwork,research,math","business,finance",Accountant
+90,53,91,59,"math,research,teamwork,analysis,problem_solving","business,finance,math",Accountant
+85,69,60,67,"math,research,problem_solving,analysis,teamwork","finance,math,business",Accountant
+90,71,73,81,"analysis,problem_solving,research,math","business,finance,math",Accountant
+80,85,49,49,"teamwork,math,research,problem_solving,analysis","business,math",Accountant
+96,80,74,52,"math,research,teamwork,problem_solving,analysis","finance,business,math",Accountant
+90,56,55,57,"research,analysis,problem_solving","math,finance",Accountant
+83,61,62,50,"teamwork,analysis,research","business,math,finance",Accountant
+86,66,66,46,"problem_solving,teamwork,math,research,analysis","business,math",Accountant
+81,65,77,64,"analysis,math,research,problem_solving","math,finance",Accountant
+76,53,64,57,"research,problem_solving,math,teamwork,analysis","math,finance",Accountant
+95,52,68,46,"analysis,problem_solving,math,teamwork","finance,business",Accountant
+91,76,66,73,"research,math,teamwork,problem_solving,analysis","math,finance",Accountant
+75,75,71,59,"analysis,research,math","math,business,finance",Accountant
+96,65,75,52,"research,math,problem_solving,teamwork,analysis","business,finance,math",Accountant
+80,68,74,70,"teamwork,math,problem_solving","math,finance",Accountant
+85,81,68,44,"math,research,teamwork,analysis","business,math,finance",Accountant
+87,65,72,67,"analysis,teamwork,problem_solving,research,math","math,finance",Accountant
+90,78,65,67,"math,teamwork,problem_solving,research,analysis","business,finance",Accountant
+78,69,71,63,"research,analysis,teamwork","finance,business,math",Accountant
+76,54,67,60,"math,analysis,teamwork","math,finance,business",Accountant
+76,66,80,79,"analysis,math,problem_solving,research,teamwork","finance,business",Accountant
+79,75,71,57,"teamwork,research,problem_solving","business,math",Accountant
+75,87,71,66,"teamwork,math,analysis,research,problem_solving","business,math,finance",Accountant
+88,61,62,65,"math,teamwork,research,problem_solving","finance,business",Accountant
+72,72,77,53,"analysis,problem_solving,teamwork","math,finance,business",Accountant
+72,52,40,73,"research,problem_solving,analysis","finance,business,math",Accountant
+63,51,68,75,"problem_solving,research,analysis","finance,math",Accountant
+76,69,70,68,"analysis,research,teamwork,problem_solving","business,finance",Accountant
+76,91,74,96,"research,teamwork,math,problem_solving","math,finance",Accountant
+84,66,58,59,"teamwork,math,research","math,business,finance",Accountant
+87,56,75,52,"math,problem_solving,analysis","business,math",Accountant
+88,70,71,67,"math,teamwork,research,analysis","business,finance,math",Accountant
+84,64,59,71,"problem_solving,teamwork,math","business,finance,math",Accountant
+75,78,74,55,"research,problem_solving,teamwork,analysis,math","business,finance,math",Accountant
+83,51,61,42,"math,research,problem_solving,analysis","business,math,finance",Accountant
+76,61,57,49,"teamwork,research,analysis,problem_solving","finance,business,math",Accountant
+75,53,85,59,"math,problem_solving,research,analysis,teamwork","math,business,finance",Accountant
+77,56,59,44,"math,teamwork,research,analysis","business,math",Accountant
+85,75,85,50,"problem_solving,math,research,analysis,teamwork","math,finance,business",Accountant
+77,56,75,67,"problem_solving,analysis,research,teamwork,math","math,finance",Accountant
+98,66,44,33,"research,analysis,math,teamwork,problem_solving","business,math",Accountant
+90,69,65,55,"problem_solving,math,analysis,teamwork","finance,business,math",Accountant
+90,68,58,58,"math,analysis,research,teamwork","math,business",Accountant
+89,60,66,44,"math,research,problem_solving,teamwork","business,finance,math",Accountant
+91,53,64,60,"teamwork,research,analysis","finance,math",Accountant
+71,67,64,74,"analysis,problem_solving,teamwork,research","finance,math",Accountant
+93,71,64,43,"problem_solving,teamwork,research","business,math,finance",Accountant
+77,71,52,79,"problem_solving,math,teamwork,research","science,technology,engineering",Mechanical Engineer
+83,70,67,55,"teamwork,analysis,research,problem_solving","technology,science,engineering",Mechanical Engineer
+81,85,61,74,"problem_solving,teamwork,analysis","science,technology",Mechanical Engineer
+88,91,65,40,"analysis,problem_solving,research","engineering,technology,science",Mechanical Engineer
+79,91,48,70,"math,teamwork,research","technology,science",Mechanical Engineer
+84,79,60,53,"math,teamwork,research,problem_solving","technology,science,engineering",Mechanical Engineer
+85,85,75,77,"math,analysis,problem_solving,research","science,engineering",Mechanical Engineer
+77,70,64,57,"math,research,problem_solving,teamwork,analysis","engineering,technology,science",Mechanical Engineer
+87,80,53,100,"math,teamwork,analysis,research","science,technology,engineering",Mechanical Engineer
+86,72,46,69,"problem_solving,research,teamwork","science,engineering",Mechanical Engineer
+76,80,63,87,"teamwork,research,problem_solving,math,analysis","technology,science,engineering",Mechanical Engineer
+89,68,64,75,"math,analysis,teamwork,research,problem_solving","engineering,technology",Mechanical Engineer
+82,77,84,80,"analysis,math,research,problem_solving","technology,science,engineering",Mechanical Engineer
+78,83,63,57,"problem_solving,math,research,analysis","engineering,science",Mechanical Engineer
+100,74,62,40,"analysis,problem_solving,math,research","technology,science,engineering",Mechanical Engineer
+88,86,56,68,"problem_solving,math,analysis,teamwork","technology,science",Mechanical Engineer
+70,79,76,69,"analysis,teamwork,math,research,problem_solving","science,technology,engineering",Mechanical Engineer
+84,70,52,63,"analysis,math,problem_solving","technology,engineering,science",Mechanical Engineer
+78,83,59,58,"research,math,analysis","engineering,technology",Mechanical Engineer
+100,72,41,74,"analysis,teamwork,problem_solving","science,technology,engineering",Mechanical Engineer
+86,89,41,66,"math,teamwork,analysis","technology,engineering",Mechanical Engineer
+80,76,50,62,"analysis,problem_solving,teamwork,research","technology,engineering,science",Mechanical Engineer
+77,77,50,65,"math,teamwork,analysis,problem_solving,research","technology,engineering,science",Mechanical Engineer
+87,87,55,76,"problem_solving,teamwork,analysis,math,research","science,technology",Mechanical Engineer
+86,87,56,55,"problem_solving,math,analysis,teamwork","technology,science",Mechanical Engineer
+74,80,55,66,"problem_solving,analysis,math","science,engineering",Mechanical Engineer
+82,79,66,56,"analysis,research,math,problem_solving,teamwork","technology,engineering,science",Mechanical Engineer
+67,82,73,82,"math,analysis,research,problem_solving,teamwork","engineering,science",Mechanical Engineer
+94,81,58,54,"research,problem_solving,teamwork","engineering,science",Mechanical Engineer
+78,70,52,57,"math,teamwork,problem_solving,analysis","science,technology,engineering",Mechanical Engineer
+93,78,70,62,"research,math,problem_solving,teamwork","engineering,science",Mechanical Engineer
+80,91,49,90,"analysis,teamwork,math,problem_solving,research","science,technology,engineering",Mechanical Engineer
+79,84,77,74,"analysis,teamwork,research,problem_solving","science,technology,engineering",Mechanical Engineer
+85,63,57,66,"research,math,problem_solving,teamwork,analysis","technology,science,engineering",Mechanical Engineer
+88,66,55,85,"math,teamwork,analysis,problem_solving","engineering,technology",Mechanical Engineer
+84,89,60,56,"teamwork,math,problem_solving,analysis,research","technology,science,engineering",Mechanical Engineer
+71,82,71,63,"math,analysis,research,problem_solving","science,engineering,technology",Mechanical Engineer
+83,77,40,58,"math,analysis,research,problem_solving,teamwork","engineering,science,technology",Mechanical Engineer
+86,95,72,72,"analysis,problem_solving,research","technology,engineering",Mechanical Engineer
+89,81,41,60,"research,analysis,problem_solving,teamwork","technology,engineering",Mechanical Engineer
+85,70,60,66,"math,problem_solving,analysis,research,teamwork","technology,engineering,science",Mechanical Engineer
+85,77,56,71,"research,math,teamwork","engineering,science",Mechanical Engineer
+89,93,56,79,"research,problem_solving,teamwork,analysis,math","engineering,science",Mechanical Engineer
+80,80,58,70,"problem_solving,research,teamwork","technology,engineering",Mechanical Engineer
+82,82,56,45,"research,problem_solving,analysis,teamwork,math","technology,engineering",Mechanical Engineer
+88,79,54,61,"research,analysis,math","technology,engineering,science",Mechanical Engineer
+87,84,59,62,"research,problem_solving,math,teamwork,analysis","science,technology,engineering",Mechanical Engineer
+85,71,61,91,"teamwork,math,problem_solving,research","science,technology",Mechanical Engineer
+82,70,62,71,"teamwork,math,analysis,problem_solving","science,engineering",Mechanical Engineer
+90,79,59,70,"teamwork,math,research,problem_solving","technology,science",Mechanical Engineer
+87,77,60,84,"math,research,teamwork,analysis","technology,science,engineering",Mechanical Engineer
+82,89,57,64,"math,research,analysis,problem_solving","engineering,science,technology",Mechanical Engineer
+82,90,63,62,"teamwork,math,research,analysis","technology,science,engineering",Mechanical Engineer
+79,76,50,76,"analysis,math,problem_solving,research,teamwork","science,technology",Mechanical Engineer
+83,89,41,58,"research,problem_solving,math,teamwork","engineering,technology",Mechanical Engineer
